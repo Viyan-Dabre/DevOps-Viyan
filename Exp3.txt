@@ -1,0 +1,5 @@
+Viyan dabre te it a 
+roll 14
+pid 231016
+batch a1
+evops exp 3
